@@ -1,0 +1,6 @@
+database:
+  path: "db/bot_manager.db"
+api:
+  x_platform_endpoint: "placeholder_endpoint"
+  retry_attempts: 3
+  timeout: 10

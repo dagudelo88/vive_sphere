@@ -1,0 +1,6 @@
+database:
+  path: "db/logging.db"
+logging:
+  level: "INFO"
+  rotation: "1 week"
+  retention: "4 weeks"

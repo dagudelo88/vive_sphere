@@ -1,0 +1,5 @@
+database:
+  path: "db/auth.db"
+jwt:
+  secret: "placeholder_secret"
+  expiry: 3600

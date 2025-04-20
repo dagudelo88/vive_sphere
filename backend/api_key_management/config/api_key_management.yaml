@@ -1,0 +1,7 @@
+database:
+  path: "db/api_key_management.db"
+encryption:
+  algorithm: "AES-256"
+  key_length: 32
+security:
+  access_level: "admin_only"

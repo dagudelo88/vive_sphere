@@ -1,0 +1,6 @@
+database:
+  path: "db/persona_setup.db"
+persona:
+  default_attributes:
+    tone: "neutral"
+    interests: ["technology", "social media"]

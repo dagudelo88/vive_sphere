@@ -1,0 +1,5 @@
+database:
+  path: "db/secure_bot_data.db"
+encryption:
+  algorithm: "AES-256"
+  key_length: 32

@@ -1,0 +1,10 @@
+database:
+  path: "db/trends_research.db"
+scraping:
+  sources:
+    - url: "placeholder_x_platform_url"
+      interval: 3600
+    - url: "placeholder_news_site_url"
+      interval: 7200
+  max_retries: 3
+  timeout: 10

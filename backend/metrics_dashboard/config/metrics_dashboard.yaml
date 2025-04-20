@@ -1,0 +1,5 @@
+database:
+  path: "db/metrics_dashboard.db"
+metrics:
+  update_interval: 300
+  retention_period: 30
